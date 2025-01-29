@@ -10,4 +10,4 @@ Download: [![Download](https://img.shields.io/badge/Download%20Batch%20file-purp
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Mealman1551-blue?style=for-the-badge)
 
-###### © 2024 Mealman1551
+###### © 2025 Mealman1551
